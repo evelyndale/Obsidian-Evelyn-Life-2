@@ -1,0 +1,1 @@
+Make Capslock my Escape or a Meta key

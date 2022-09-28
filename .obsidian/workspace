@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "8776228bb160e140",
+    "type": "split",
+    "children": [
+      {
+        "id": "e163de150e9a38a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Home.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "970405a2d15b427e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf957d37e25d87a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85b82f6f4925e254",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c53efda05a48446",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#bash",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c78c658c06dfe53",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 187,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f4fce655d9f28f49",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa440889563d214f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acab06a4b0f4ee74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52f80f9874237798",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe989dae77dace6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c609e3d58bd6cc8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "134d3ab90fc8dfdf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e163de150e9a38a8",
+  "lastOpenFiles": [
+    "ALL NOTES/Command Line Tools.md",
+    "9 - 💎 OBSIDIAN/Obsidian Reference.md",
+    "📖 Study Journal.md",
+    "Flatpak.md",
+    "ALL NOTES/Linux.md",
+    "ALL NOTES/Systemd.md",
+    "ALL NOTES/Linux Directory Structure.md",
+    "Ubuntu Settings.md",
+    "Home.md",
+    "ALL NOTES/ls.md"
+  ]
+}

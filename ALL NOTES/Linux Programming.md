@@ -1,0 +1,10 @@
+- header files are found in `/usr/include` and subdirectores therein
+- standard system libraries are in `/lib` and `/usr/lib`
+- however, the C compiler needs to be told which libraries to search; it is not enough to simply put the library in the standard directory
+- library needs to always start with *lib*
+- `.a` suffix indicates traditional/static libraries
+- `.so` for shared libraries
+- use `-l` and `-L` to link in libraries
+- use the `nm` command to list symbols from object files
+- a downside to shared libraries is that if many running applications are using functions from the same shared library, many copies of the same functions could end up in memory at once, cconsuming  large amount of memory and disk space
+- 

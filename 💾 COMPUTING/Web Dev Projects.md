@@ -1,0 +1,8 @@
+- [[TruePrice]]
+	- List prices of subscription services that hide their prices
+	- Use database to store website, price, date added, etc.
+	- search box, sorting, filters
+	- cms?
+	- 
+- [[Portfolio Website]]
+	- Style theme like firefox dev tools?

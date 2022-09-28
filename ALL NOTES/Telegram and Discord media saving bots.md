@@ -1,0 +1,1 @@
+- Make bots for Telegram and Discord that will save every link to a song or video a friend sends me so that I can revisit them all later in a playlist, so that I don't miss anythin

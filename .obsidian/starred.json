@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "♡ YouTube Channel ♡ Noise is Love ♡",
+      "path": "🎭CREATIVE/♡ YouTube Channel ♡ Noise is Love ♡.md"
+    },
+    {
+      "type": "file",
+      "title": "Home",
+      "path": "Home.md"
+    },
+    {
+      "type": "file",
+      "title": "Daily Music Practice",
+      "path": "🔊AUDIO & MUSIC/Daily Music Practice.md"
+    },
+    {
+      "type": "file",
+      "title": "Audio Production Reference",
+      "path": "🔊AUDIO & MUSIC/Audio Production Reference.md"
+    },
+    {
+      "type": "file",
+      "title": "Health",
+      "path": "💜 HEALTH, FINANCE, PERSONAL/🩺 Health.md"
+    },
+    {
+      "type": "file",
+      "title": "Web Dev",
+      "path": "💾 COMPUTING/Web Dev.md"
+    }
+  ]
+}

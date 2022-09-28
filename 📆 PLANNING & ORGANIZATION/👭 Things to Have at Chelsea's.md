@@ -1,0 +1,17 @@
+# Things to Have at Chelsea's
+ - Binoculars 
+ - Razor handle/blades
+ - New toothbrush
+ - Clothes storage
+ - Bedside lamp
+ - Small personal fan
+ - Lots of earplugs
+ - Backpack?
+ - Guitar and amp? And picks
+ - Medication
+ - Outfits:
+	 - One nice "going out" look
+	 - Two comfortable, cool outfits
+	 - Jacket, leggings, scarf, hat, gloves for cold weather
+	 - Comfortable walking shoes
+	 - Slippers

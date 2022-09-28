@@ -1,0 +1,2 @@
+- Install to `/var/lib/flatpak/app`
+- 

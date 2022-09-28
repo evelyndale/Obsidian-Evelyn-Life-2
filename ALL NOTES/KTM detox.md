@@ -1,0 +1,3 @@
+- Measure out daily allowances
+- Find substitute habits
+- Exercise
